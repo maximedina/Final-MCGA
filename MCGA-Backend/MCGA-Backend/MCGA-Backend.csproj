@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <RootNamespace>MCGA_Backend</RootNamespace>
+    <AssemblyName>MOM.Core.WebAPI</AssemblyName>
+    <UserSecretsId>f18c95da-7e09-4a80-81d8-4edf603b73e8</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="2.2.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="System.DirectoryServices" Version="4.5.0" />
+    <PackageReference Include="System.DirectoryServices.AccountManagement" Version="4.5.0" />
+    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.13" />
+  </ItemGroup>
+
+</Project>

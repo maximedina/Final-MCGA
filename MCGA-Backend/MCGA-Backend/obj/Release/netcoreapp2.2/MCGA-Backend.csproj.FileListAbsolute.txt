@@ -1,0 +1,17 @@
+C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\bin\Release\netcoreapp2.2\appsettings.json
+C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\bin\Release\netcoreapp2.2\MOM.Core.WebAPI.deps.json
+C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\bin\Release\netcoreapp2.2\MOM.Core.WebAPI.runtimeconfig.json
+C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\bin\Release\netcoreapp2.2\MOM.Core.WebAPI.runtimeconfig.dev.json
+C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\bin\Release\netcoreapp2.2\MOM.Core.WebAPI.dll
+C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\bin\Release\netcoreapp2.2\MOM.Core.WebAPI.pdb
+C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\obj\Release\netcoreapp2.2\MCGA-Backend.csprojAssemblyReference.cache
+C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\obj\Release\netcoreapp2.2\MCGA-Backend.AssemblyInfoInputs.cache
+C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\obj\Release\netcoreapp2.2\MCGA-Backend.AssemblyInfo.cs
+C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\obj\Release\netcoreapp2.2\MCGA-Backend.csproj.CoreCompileInputs.cache
+C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\obj\Release\netcoreapp2.2\MCGA-Backend.RazorAssemblyInfo.cache
+C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\obj\Release\netcoreapp2.2\MCGA-Backend.RazorAssemblyInfo.cs
+C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\obj\Release\netcoreapp2.2\MCGA-Backend.RazorTargetAssemblyInfo.cache
+C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\obj\Release\netcoreapp2.2\MOM.Core.WebAPI.dll
+C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\obj\Release\netcoreapp2.2\MOM.Core.WebAPI.pdb
+C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\obj\Release\netcoreapp2.2\MCGA-Backend.genruntimeconfig.cache
