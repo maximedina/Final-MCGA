@@ -52,7 +52,7 @@ export class CiudadComponent implements OnInit {
 
   ngOnInit() {
     if (this.authenticate.isLoggedIn()) {
-      console.log('oninit true:' + this.authenticate.isLoggedIn().toString());
+      console.log("oninit true:" + this.authenticate.isLoggedIn().toString());
       this.permissionCreate = this.authenticate.getPermissionLS("CREAR_CIUDAD");
       this.permissionDelete =
         this.authenticate.getPermissionLS("BORRAR_CIUDAD");
@@ -175,7 +175,8 @@ export class CiudadComponent implements OnInit {
 
   //Delete
   deleteCiudad(index: number) {
-    let ciudad = this.ciudad[index];
+    //console.log("indice dlete ciudad: " + index);
+    let ciudad = this.ciudades[index];
     this.ciudadService.deleteCiudad(ciudad).subscribe(
       (result) => {
         if (result == null) {
