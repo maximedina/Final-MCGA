@@ -13307,11 +13307,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MCGA\\Prueba 2.2\\MCGA-Backend\\MCGA-Backend\\MCGA-Backend.csproj",
+      "projectUniqueName": "C:\\MCGA\\MCGA-Backend\\MCGA-Backend\\MCGA-Backend.csproj",
       "projectName": "MOM.Core.WebAPI",
-      "projectPath": "C:\\MCGA\\Prueba 2.2\\MCGA-Backend\\MCGA-Backend\\MCGA-Backend.csproj",
+      "projectPath": "C:\\MCGA\\MCGA-Backend\\MCGA-Backend\\MCGA-Backend.csproj",
       "packagesPath": "C:\\Users\\29196022\\.nuget\\packages\\",
-      "outputPath": "C:\\MCGA\\Prueba 2.2\\MCGA-Backend\\MCGA-Backend\\obj\\",
+      "outputPath": "C:\\MCGA\\MCGA-Backend\\MCGA-Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

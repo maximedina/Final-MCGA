@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t6888TgCGsd+YCDaYO5kTWpAMBfWGTDgVd+TNA01mFpEFZuV0v/JUvtg8B5t4X1AfTaXp7nlwCszT9qEusOcJg==",
+  "dgSpecHash": "KIifPAjsBpS0ho27yW8LDHTW7HhbC+rn5UIUw1UbTirC2xFQJldrkgCYUp1zRG2k8qrDcblzDIscJ+ZcUcsDKA==",
   "success": true,
-  "projectFilePath": "C:\\MCGA\\Prueba 2.2\\MCGA-Backend\\MCGA-Backend\\MCGA-Backend.csproj",
+  "projectFilePath": "C:\\MCGA\\MCGA-Backend\\MCGA-Backend\\MCGA-Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

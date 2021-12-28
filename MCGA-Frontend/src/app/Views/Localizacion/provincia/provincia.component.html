@@ -54,7 +54,7 @@
                 (input)="dt.filter($event.target.value, col.field, col.filterMatchMode); col.filtered=$event.target.value"
                 placeholder="{{col.header}}" pInputText type="text" />
             </p-overlayPanel>
-            <div class="p-col-10">{{col.header}}<p-sortIcon [field]="col.field"></p-sortIcon>
+            <div class="p-col-10">&nbsp;&nbsp;{{col.header}}<p-sortIcon [field]="col.field"></p-sortIcon>
             </div>
             <div class="p-col-2" style="padding: 0px; align-self: center; text-align: center;"
               (click)="$event.stopPropagation()"><i
@@ -63,7 +63,7 @@
             </div>
           </div>
         </th>
-        <th style="text-align: center;">Acción</th>
+        <th>&nbsp;Acción</th>
       </tr>
     </ng-template>
     <!-- Body -->
@@ -87,9 +87,9 @@
             pInitEditableRow></button>
           <button *ngIf="editing && hasPermissionCreate" pButton type="button" icon="pi pi-check"
             class="ui-button-success-check" (click)="updateProvincia(rowData, index)" style="margin-right: .5em"
-            pSaveEditableRow></button>&nbsp;
+            pSaveEditableRow></button>
           <button *ngIf="editing && hasPermissionCreate" pButton type="button" pCancelEditableRow icon="pi pi-times"
-            class="ui-button-danger" (click)="cancelProvincia(rowData, index)"></button>
+            class="ui-button-danger" (click)="cancelProvincia(rowData, index)" style="margin-right: .5em"></button>
         </td>
       </tr>
     </ng-template>
@@ -98,7 +98,7 @@
     </ng-template>
     <ng-template pTemplate="emptymessage" let-columns>
       <tr>
-        <td [attr.colspan]="6" class="text-center">
+        <td [attr.colspan]="2" class="text-center">
           {{ loading ? 'Cargando...' : 'No hay registros para los criterios especificados'}}
         </td>
       </tr>

@@ -115,6 +115,7 @@ namespace MOM.Core.WebAPI.Controllers
         }
 
         [HttpGet("Ciudad/GetByValue")]
+        [SecurityExclusion]
         public ActionResult<List<Ciudad>> GetByValue(bool incluirInactivos, string nombre, int idProvincia)
         {
             try

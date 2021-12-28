@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   //APIURL: 'https://localhost:44385/api'
-  APIURL: 'http://www.mcga-backend.somee.com/api'
+  APIURL: 'https://www.mcga-backend.somee.com/api'
 };
 
 /*

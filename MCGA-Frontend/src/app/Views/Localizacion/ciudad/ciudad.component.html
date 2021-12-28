@@ -3,13 +3,14 @@
   <form #frm="ngForm" class="form">
     <div class="p-d-flex p-ai-end">
       <div class="p-col-2">
-        <label style="color: black">Nombre</label>
+        <label>Nombre</label>
         <br>
         <input pInputText name="nombre" placeholder="Nombre" ngModel>
       </div>
 
       <div class="p-col-2">
-        <label for="provincia" style="margin-left: 85px; color: black">Provincia</label>
+        <label for="provincia">Provincia</label>
+        <br>
         <p-dropdown class="inputProvincia" id="provincia" [options]="provincias" name="provincia"
           [(ngModel)]="provincia" placeholder="Seleccione" optionLabel="nombre" appendTo="body"></p-dropdown>
       </div>
@@ -45,7 +46,7 @@
                 (input)="dt.filter($event.target.value, col.field, col.filterMatchMode); col.filtered=$event.target.value"
                 placeholder="{{col.header}}" pInputText type="text" />
             </p-overlayPanel>
-            <div class="p-col-10">{{col.header}}<p-sortIcon [field]="col.field"></p-sortIcon>
+            <div class="p-col-10">&nbsp;&nbsp;{{col.header}}<p-sortIcon [field]="col.field"></p-sortIcon>
             </div>
             <div class="p-col-2" style="padding: 0px; align-self: center; text-align: center;"
               (click)="$event.stopPropagation()"><i
@@ -54,7 +55,7 @@
             </div>
           </div>
         </th>
-        <th style="text-align: center;">Acción</th>
+        <th>&nbsp;Acción</th>
       </tr>
     </ng-template>
 
@@ -89,9 +90,9 @@
           <button *ngIf="!editing && hasPermissionCreate" pButton type="button" icon="pi pi-pencil"
             class="ui-button-info" (click)="onRowEditInit(rowData)" pInitEditableRow></button>
           <button *ngIf="editing && hasPermissionCreate" pButton type="button" pSaveEditableRow icon="pi pi-check"
-            class="ui-button-success" (click)="updateCiudad(rowData, index)" style="margin-right: .5em"></button>&nbsp;
+            class="ui-button-success" (click)="updateCiudad(rowData, index)" style="margin-right: .5em"></button>
           <button *ngIf="editing && hasPermissionCreate" pButton type="button" pCancelEditableRow icon="pi pi-times"
-            class="ui-button-info" (click)="onRowEditCancel(rowData, index)"></button>
+            class="ui-button-info" (click)="onRowEditCancel(rowData, index)" style="margin-right: .5em"></button>
       </tr>
     </ng-template>
     <!-- Summary -->
@@ -99,7 +100,7 @@
     </ng-template>
     <ng-template pTemplate="emptymessage" let-columns>
       <tr>
-        <td [attr.colspan]="6" class="text-center">
+        <td [attr.colspan]="3" class="text-center">
           {{ loading ? 'Cargando...' : 'No hay registros para los criterios especificados'}}
         </td>
       </tr>

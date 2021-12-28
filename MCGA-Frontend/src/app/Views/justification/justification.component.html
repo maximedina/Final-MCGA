@@ -5,7 +5,7 @@
     [maximizable]="false" [baseZIndex]="10000">
     <form #frmModal="ngForm" (ngSubmit)="save(frmModal.value); frmModal.resetForm()">
         <p>Complete el motivo por el que se desea eliminar el registro.</p>
-        <textarea ngModel name="description" rows="5" cols="60" required></textarea>
+        <textarea ngModel name="description" rows="5" cols="45" required></textarea>
         <p-footer>
             <button pButton type="submit" [disabled]="!frmModal.valid" style="
           background-color: #007ad9;

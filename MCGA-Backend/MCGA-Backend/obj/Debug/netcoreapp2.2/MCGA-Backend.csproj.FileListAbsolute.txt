@@ -15,3 +15,20 @@ C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\obj\Debug\netcoreapp2.2\MCGA-Backen
 C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\obj\Debug\netcoreapp2.2\MOM.Core.WebAPI.dll
 C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\obj\Debug\netcoreapp2.2\MOM.Core.WebAPI.pdb
 C:\MCGA\Prueba 2.2\MCGA-Backend\MCGA-Backend\obj\Debug\netcoreapp2.2\MCGA-Backend.genruntimeconfig.cache
+C:\MCGA\MCGA-Backend\MCGA-Backend\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\MCGA\MCGA-Backend\MCGA-Backend\bin\Debug\netcoreapp2.2\appsettings.json
+C:\MCGA\MCGA-Backend\MCGA-Backend\bin\Debug\netcoreapp2.2\MOM.Core.WebAPI.deps.json
+C:\MCGA\MCGA-Backend\MCGA-Backend\bin\Debug\netcoreapp2.2\MOM.Core.WebAPI.runtimeconfig.json
+C:\MCGA\MCGA-Backend\MCGA-Backend\bin\Debug\netcoreapp2.2\MOM.Core.WebAPI.runtimeconfig.dev.json
+C:\MCGA\MCGA-Backend\MCGA-Backend\bin\Debug\netcoreapp2.2\MOM.Core.WebAPI.dll
+C:\MCGA\MCGA-Backend\MCGA-Backend\bin\Debug\netcoreapp2.2\MOM.Core.WebAPI.pdb
+C:\MCGA\MCGA-Backend\MCGA-Backend\obj\Debug\netcoreapp2.2\MCGA-Backend.csprojAssemblyReference.cache
+C:\MCGA\MCGA-Backend\MCGA-Backend\obj\Debug\netcoreapp2.2\MCGA-Backend.AssemblyInfoInputs.cache
+C:\MCGA\MCGA-Backend\MCGA-Backend\obj\Debug\netcoreapp2.2\MCGA-Backend.AssemblyInfo.cs
+C:\MCGA\MCGA-Backend\MCGA-Backend\obj\Debug\netcoreapp2.2\MCGA-Backend.csproj.CoreCompileInputs.cache
+C:\MCGA\MCGA-Backend\MCGA-Backend\obj\Debug\netcoreapp2.2\MCGA-Backend.RazorAssemblyInfo.cache
+C:\MCGA\MCGA-Backend\MCGA-Backend\obj\Debug\netcoreapp2.2\MCGA-Backend.RazorAssemblyInfo.cs
+C:\MCGA\MCGA-Backend\MCGA-Backend\obj\Debug\netcoreapp2.2\MCGA-Backend.RazorTargetAssemblyInfo.cache
+C:\MCGA\MCGA-Backend\MCGA-Backend\obj\Debug\netcoreapp2.2\MOM.Core.WebAPI.dll
+C:\MCGA\MCGA-Backend\MCGA-Backend\obj\Debug\netcoreapp2.2\MOM.Core.WebAPI.pdb
+C:\MCGA\MCGA-Backend\MCGA-Backend\obj\Debug\netcoreapp2.2\MCGA-Backend.genruntimeconfig.cache
